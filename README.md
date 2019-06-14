@@ -1,7 +1,7 @@
-# bugbountycheatsheet
+# bugbountycheatsheet(@AKhilHacker)
 
-#@AKhilHAcker
-# Bug Bounty Cheat Sheet</h1>
+# @AKhilHAcker
+# Bug Bounty Cheat Sheet(@AKhilHacker)</h1>
 
 | 📚 Reference of @AkhilHacker                                | 🔎 Vulnerabilities                                        | 
 |-------------------------------------------------------------|-----------------------------------------------------------| 
